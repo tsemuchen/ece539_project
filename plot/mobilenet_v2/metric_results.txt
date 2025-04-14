@@ -1,0 +1,15 @@
+Accuracy: 0.9162
+Class 0 (Cardboard): Precision: 0.9556, Recall: 0.8958, F1 Score: 0.9247
+Class 1 (Food Organics): Precision: 0.8617, Recall: 0.9759, F1 Score: 0.9153
+Class 2 (Glass): Precision: 0.9412, Recall: 0.9302, F1 Score: 0.9357
+Class 3 (Metal): Precision: 0.9321, Recall: 0.9042, F1 Score: 0.9179
+Class 4 (Miscellaneous Trash): Precision: 0.8434, Recall: 0.7692, F1 Score: 0.8046
+Class 5 (Paper): Precision: 0.9388, Recall: 0.9485, F1 Score: 0.9436
+Class 6 (Plastic): Precision: 0.8919, Recall: 0.9375, F1 Score: 0.9141
+Class 7 (Textile Trash): Precision: 0.8986, Recall: 0.9118, F1 Score: 0.9051
+Class 8 (Vegetation): Precision: 0.9888, Recall: 0.9670, F1 Score: 0.9778
+
+Macro-Averaged Metrics:
+Precision: 0.9169
+Recall:    0.9156
+F1 Score:  0.9154
