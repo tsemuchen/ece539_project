@@ -1,5 +1,6 @@
 Model, Accuracy, Precision, Recall, F1-Score
 DenseNet121,0.9114,0.914,0.9146,0.9138
+DenseNet121 w/ aug, 0.9205, 0.9199, 0.9236, 0.9209 
 Inception V3,0.9167,0.921,0.9122,0.9162
 MobileNet V2,0.9162,0.9169,0.9156,0.9154
 Wide ResNet101_2,0.9288,0.9269,0.9261,0.9253
