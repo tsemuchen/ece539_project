@@ -10,4 +10,4 @@ This repository implements a training pipeline for deep learning models, focusin
 
 - Feature extraction and fine-tuning pipeline for transfer learning.
 - Evaluation of model performance on specific datasets.
-- Currently supports DenseNet121 and Inception V3, with plans for future expansions to other pre-trained models (e.g., ResNet, VGG).
+- Currently supports DenseNet121 (w/ and w/o augmentation), Inception V3, VGG-16, Wide ResNet101-2, ConvNeXt Base, and MobileNet V2
