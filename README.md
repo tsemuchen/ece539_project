@@ -14,4 +14,4 @@ This repository implements a training pipeline for deep learning models, focusin
 
 ## Results
 - Five out of six models outperform the best model in the original paper.
-- Details can be found in .csv files, report, and slide.
+- Details can be found in metrics.csv, plot, and report directory.
